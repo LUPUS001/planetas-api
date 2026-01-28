@@ -1,4 +1,4 @@
-name: Animal Farm Node.js CI
+name: planetas-api Node.js CI
 
 on:
   push:
